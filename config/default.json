@@ -1,3 +1,3 @@
 {
-    "mongoURI": "mongodb+srv://tempuser:badpassword2020@cluster0-gjdwh.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://tempuser:badpassword1@cluster0-gjdwh.mongodb.net/test?retryWrites=true&w=majority"
 }
