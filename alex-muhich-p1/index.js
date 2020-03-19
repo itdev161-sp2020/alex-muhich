@@ -29,3 +29,11 @@ application.use('/manga', mangaController);
 application.listen("3000", ()=>{
     console.log("server started");
 });
+
+
+//https://www.youtube.com/watch?v=j2nv6cfAsp0
+/**
+I used this tutorial to get started. I was having a lot of trouble figuring out what to do from the activites
+and online tutorials were somewhat helpful, but I really don't understand how to get something working for
+this project
+**/
